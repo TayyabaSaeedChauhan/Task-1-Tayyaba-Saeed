@@ -67,7 +67,12 @@ To ensure accurate downstream business reporting and dashboard visualization, th
 ## 👩‍💻 Author
 **Tayyaba Saeed**  
 *Data Analytics Intern — DECODE Lab*  
-* [LinkedIn][(https://www.linkedin.com/in/tayyabasaeedchauhan/)] | [GitHub Repository](https://github.com/)
+* LinkedIn
+* <br>
+(https://www.linkedin.com/in/tayyabasaeedchauhan/) | 
+GitHub Repository
+<br>
+(https://github.com/)
 
 ---
 *Keywords: Data Analytics, E-Commerce Analytics, DECODE Lab, Data Cleaning, Data Integrity, Microsoft Excel, Data Validation, Exploratory Data Analysis (EDA), Sales Reporting.*
